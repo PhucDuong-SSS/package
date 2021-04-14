@@ -1,4 +1,6 @@
 {
+    "name": "phuc/packagedemo",
+    "description": "first package demo",
     "autoload": {
         "psr-4": {
             "Test\\": "src/"
